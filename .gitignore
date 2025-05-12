@@ -2,3 +2,5 @@
 *.pth
 README.md
 mmdetection3d/
+.idea/
+gittoken
