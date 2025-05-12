@@ -1,3 +1,4 @@
 *.pt
 *.pth
 README.md
+mmdetection3d/
