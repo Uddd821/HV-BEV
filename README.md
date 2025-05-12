@@ -15,6 +15,6 @@
 
 > - # Logs
 | Backbone | Method | Lr Schd | NDS | mAP | Config | Download |
-| :---: | :---: | :---: | :---: | :---:|:---:| :---: | :---: |
+| :---: | :---: | :---: | :---: | :---:|:---:| :---: |
 | R101-DCN | HV-BEV_small | 24ep | 35.9 | 25.7 |[config](projects/configs/bevformer/bevformer_small.py) | [log](log/Res101_small.log) |
 | VoV-99| HV-BEV-base| 24ep | 35.4 | 25.2 |[config](projects/configs/bevformer/bevformer_base.py) | [log](log/vov_base.log)| 
